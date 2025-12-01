@@ -1,0 +1,6 @@
+---
+title: "About"
+format: html
+---
+
+Hi, my name is Chaeyeon Son! Welcome to my site. I'm a junior in the Department of English Language and Literature at Kunsan National University. I love English!

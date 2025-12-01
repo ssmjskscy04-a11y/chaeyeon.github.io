@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "An awesome English major from South Korea!"
+  },
+  {
+    "objectID": "lm.html",
+    "href": "lm.html",
+    "title": "Language Models",
+    "section": "",
+    "text": "This fall, I have learned about language models. First, I learned about N-gram models, and later on, I also learned neural networks."
+  }
+]
