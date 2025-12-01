@@ -2,7 +2,8 @@ project:
   type: website
 
 website:
-  title: "Chaeyeon
+  title: "Chaeyeon"
+  navbar:
     left:
       - file: index.qmd
         text: Home
