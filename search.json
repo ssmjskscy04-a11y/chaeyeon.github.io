@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "An awesome English major from South Korea!"
+    "text": "Hi, my name is Chaeyeon Son! Welcome to my site. I’m a junior in the Department of English Language and Literature at Kunsan National University. I love English!"
   },
   {
     "objectID": "lm.html",
     "href": "lm.html",
     "title": "Language Models",
     "section": "",
-    "text": "This fall, I have learned about language models. First, I learned about N-gram models, and later on, I also learned neural networks."
+    "text": "This fall, I have learned about language models. First, I learned about N-gram models, and later on, I also learned about neural networks.\nWe analyzed texts from a British female author’s novels."
   }
 ]
